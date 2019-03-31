@@ -5,4 +5,4 @@
 from conversion import *
 
 # Выводит результат на экран
-print('%0.1f degrees Celsius equals %0.1f degrees Fahrenheit.\n' % (fahrenheit, celsius()))
+print('%0.1f degrees Fahrenheit equals %0.1f degrees Celsius.\n' % (fahrenheit, celsius()))
